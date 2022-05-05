@@ -1,8 +1,8 @@
 # Toyoubeloader <br>
 Frontend/GUI for Youtube-DL<br>
-
-Youtube-DL downloads videos from youtube.com or other platforms
-https://github.com/ytdl-org/youtube-dl
+<br><br>
+Youtube-DL downloads videos from youtube.com or other platforms<br>
+https://github.com/ytdl-org/youtube-dl<br>
 ___<br>
 
 ToyoubeLoader by Ferdinand Marx - 2022<br>
