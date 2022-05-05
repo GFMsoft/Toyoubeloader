@@ -9,7 +9,7 @@ ToyoubeLoader by Ferdinand Marx - 2022<br>
 Gui für Youtube-DL<br>
 Diese Software steuert Youtube-DL!<br>
 <br><br>
-Diese Software kann selbstständig keine Youtubevideos runterladen oder konvertieren.<br>
+Diese Software kann selbstständig keine Videos runterladen oder konvertieren.<br>
 Youtube-DL.exe, ffmpeg.exe, ffplay.exe und ffprobe.exe müssen im Programmverzeichnis (Application.StartupPath) liegen!<br>
 <br><br>
 Load Yotube-DL.exe, ffmpeg.exe, ffplay.exe and ffprobe.exe only from official websites - VALIDATE SHA256 fingerprint and signature!<br>
